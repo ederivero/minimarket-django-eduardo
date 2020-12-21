@@ -25,7 +25,7 @@ SECRET_KEY = '!d!h=kjb*ob!!e4$2t%w%tt%p%r-+l0r($ctb39=-kisi7f1q4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['minimarketeduardo-django.herokuapp.com']
 
 
 # Application definition
