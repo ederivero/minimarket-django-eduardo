@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'Minimarket.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Minimarket4',
-        'USER': 'root',
-        'PASSWORD': 'root',
-        'HOST': '127.0.0.1', #'localhost'
+        'NAME': 'm5lvl0apoviwdkep',
+        'USER': 'v82ee2izhecqr0h6',
+        'PASSWORD': 'zcouid9bnbfot1ab',
+        'HOST': 'z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', #'localhost'
         'PORT': '3306'
     }
 }
